@@ -9,6 +9,6 @@ Este Projeto possui:
 * Getters e Setters
 * Pasta com as Imagens Usadas (Criadas/Editadas via Photoshop)
 
-Duvidas entrar em contato via LinkedIn: www.linkedin.com/in/anthoni-t ou e-mail: anthoni.tessaroot@gmail.com
+Duvidas entrar em contato via LinkedIn: www.linkedin.com/in/anthoni-t ou e-mail: anthoni.tessaroto@gmail.com
 
 Valeu!! ;)
