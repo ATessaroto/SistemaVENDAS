@@ -11,4 +11,3 @@ Este Projeto possui:
 
 Duvidas entrar em contato via LinkedIn: www.linkedin.com/in/anthoni-t ou e-mail: anthoni.tessaroto@gmail.com
 
-Valeu!! ;)
